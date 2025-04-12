@@ -32,6 +32,7 @@ A sleek and simple web-based Image Search Engine that allows users to search for
 ├── script.js           # JavaScript for search functionality
 ├── screenshot.png      # Preview screenshot
 ├── README.md           # Project documentation
+```
 
 ## 📦 How to Run Locally
 

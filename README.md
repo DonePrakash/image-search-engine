@@ -23,9 +23,19 @@ A sleek and simple web-based Image Search Engine that allows users to search for
 - JavaScript
 - Unsplash API
 
+## 📁 Folder Structure
+
+```bash
+📁 image-search-engine/
+├── index.html          # Main HTML file
+├── style.css           # Styling (CSS)
+├── script.js           # JavaScript for search functionality
+├── screenshot.png      # Preview screenshot
+├── README.md           # Project documentation
+
 ## 📦 How to Run Locally
 
 ```bash
-git clone https://github.com/YourUsername/image-search-engine.git
+git clone https://github.com/DonePrakash/image-search-engine
 cd image-search-engine
 # Just open index.html in your browser

@@ -14,7 +14,7 @@ A sleek and simple web-based Image Search Engine that allows users to search for
 
 [![Image Search Preview](./screenshot.png)](https://searchimageanddownload.netlify.app)
 
-🔗 **Live Site**: [https://your-netlify-link.netlify.app](https://searchimageanddownload.netlify.app)
+🔗 **Live Site**: [https://searchimageanddownload.netlify.app](https://searchimageanddownload.netlify.app)
 
 ## 🛠️ Tech Stack
 
